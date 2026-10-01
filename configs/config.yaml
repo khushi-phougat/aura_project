@@ -1,0 +1,8 @@
+# AURA - all tunable parameters live here (reproducibility rule from the synopsis)
+camera_index: 0        # 0 = default webcam, try 1 if that fails
+width: 1280
+height: 720
+process_width: 640     # perception runs at this width, then we scale back up
+smoothing: 0.35        # pet position glide: higher = snappier, lower = floatier
+show_landmarks: true
+pet_scale: 0.22        # pet size relative to frame height

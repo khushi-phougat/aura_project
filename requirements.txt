@@ -1,0 +1,9 @@
+opencv-python==4.10.0.84
+mediapipe==0.10.35
+numpy==1.26.4
+PyYAML==6.0.1
+pygame==2.6.0
+mesa==2.3.0
+torch==2.4.1
+torchvision==0.19.1
+matplotlib==3.9.2
